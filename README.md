@@ -36,5 +36,6 @@ python main.py input.sam genes.txt -o output.txt --verbose
 - -o - Specify output file name
 - --verbose - Enable verbose mode - detailed processing information displayed
 
-
+## License
+This project is licensed under the [MIT License](LICENSE).
 
