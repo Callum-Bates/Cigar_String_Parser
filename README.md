@@ -31,9 +31,10 @@ python main.py input.sam genes.txt -o output.txt --verbose
 ```
 
 ## Help
-<sam_file> - File path to input SAM file containing RNA-seq data
-<genes_file> - Tab-separated file with gene IDs and genomic coordinates string
--o - Specify output file name 
---verbose - Enable verbose mode - detailed processing information displayed
+- <sam_file> - File path to input SAM file containing RNA-seq data
+- <genes_file> - Tab-separated file with gene IDs and genomic coordinates string
+- -o - Specify output file name
+- --verbose - Enable verbose mode - detailed processing information displayed
+
 
 
